@@ -1,4 +1,4 @@
-<h1 align="center"> Guide for Contributors </h1>
+<h1 align="center"> Guide for Open Source Contributors </h1>
 <h3 align="center">Welcome to Our Community-Site project 👋<br> <hr>This guide will lead you through the process of starting the project and successfully making your first contribution.</h3>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
